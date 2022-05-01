@@ -26,6 +26,22 @@ Once it's been enabled on your server, simply type:
 /lizer (airport code) runway number
 You can enable as many as you want at once.  
 
+===================================================
+Available Runways and Airports:
+lsia - Los Santos International Airport
+Runways 21 / 3
+Runways 12L / 30R
+Runways 12R / 30L
+
+ssap - Sandy Shores Airport
+Runways 28L / 11R
+Runways 28R / 11L
+Runway 32
+
+fzab - Fort Zancudo Airbase
+Runway 30
+
+
 You can toggle it on and off by running the same command twice;
 
 And of course, if you enabled them all, the killswitch command of "/lizer off" can be toggled. 

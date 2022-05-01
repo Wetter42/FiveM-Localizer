@@ -86,6 +86,6 @@ CreateThread(function()
 		if flagfzab30 == true then
 			fzab30()
 		end
-	Wait()
+	Wait(0)
 	end
 end)
